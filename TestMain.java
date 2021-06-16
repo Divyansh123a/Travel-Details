@@ -31,5 +31,4 @@ public class TestMain {
 		System.out.println("Total amount : "+b.getTotalAmount());
 		
 	}
-
 }
